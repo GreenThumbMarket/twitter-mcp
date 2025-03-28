@@ -1,6 +1,6 @@
 {
-  "name": "@enescinar/twitter-mcp",
-  "version": "0.1.0",
+  "name": "@gthumb/twitter-mcp",
+  "version": "0.1.6",
   "description": "A Model Context Protocol server allows to interact with Twitter, enabling posting tweets and searching Twitter.",
   "type": "module",
   "main": "build/index.js",
@@ -37,10 +37,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EnesCinr/twitter-mcp.git"
+    "url": "git+https://github.com/GreenThumbMarket/twitter-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/EnesCinr/twitter-mcp/issues"
+    "url": "https://github.com/GreenThumbMarket/twitter-mcp/issues"
   },
-  "homepage": "https://github.com/EnesCinr/twitter-mcp#readme"
+  "homepage": "https://github.com/GreenThumbMarket/twitter-mcp#readme"
 }
